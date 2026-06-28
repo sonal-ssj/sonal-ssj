@@ -1,4 +1,4 @@
-# AI Researcher | Voice + LLMs | Safety & Evals | Healthcare 
+# AI Researcher | Speech + LLMs | Safety & Evals | Healthcare 
 Hi, I am Sonal. I am Postdoctoral Researcher/Fellow at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/)
 
 
